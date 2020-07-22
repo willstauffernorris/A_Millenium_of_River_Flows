@@ -1,2 +1,2 @@
 # A_Millenium_of_River_Flows
-data for millenium flow project
+Exploring the trends in flows of major rivers over 1000 years.
